@@ -1,0 +1,1 @@
+console.log('I am a script on the client side (frontend).');
